@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+}
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  /* background-color: #242424; */
+  background: radial-gradient(
+    circle,
+    rgb(76, 29, 29) 0%,
+    rgba(19, 20, 20, 1) 60%
+  );
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
